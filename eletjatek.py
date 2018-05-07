@@ -1,4 +1,4 @@
-#életjáték
+# életjáték 
 import sys, pygame, random
 
 pygame.init()
